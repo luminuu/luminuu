@@ -4,6 +4,7 @@ I'm a web developer from Germany with over 14 years of professional development 
 
 ### Short facts
 🔭 I’m currently working on the new WordPress default theme, Twenty Twenty One.
+
 🌱 I’m currently learning React and advanced vanilla JS.
 ✨ I'm part of the WordPress 5.6 release squad.
 💬 Ask me about CSS!
