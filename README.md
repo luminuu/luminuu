@@ -1,6 +1,6 @@
 ## Hi, I'm Jessica 👋
 
-I'm a web developer from Germany with over 14 years of professional development experience. I work at @result-gmbh and contribute to @WordPress.
+I'm a web developer from Germany with over 14 years of professional development experience. I work at (result gmbh)[http://www.result.de] and contribute to (WordPress)[https://github.com/WordPress].
 
 ### Short facts
 🔭 I’m currently working on the new WordPress default theme, Twenty Twenty One.
