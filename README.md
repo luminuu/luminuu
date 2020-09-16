@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi, I'm Jessica 👋
 
-<!--
-**luminuu/luminuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer from Germany with over 14 years of professional development experience. I work at @result-gmbh and contribute to @WordPress.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Short facts
+- 🔭 I’m currently working on the new WordPress default theme, Twenty Twenty One.
+- 🌱 I’m currently learning React and advanced vanilla JS.
+- ✨ I'm part of the WordPress 5.6 release squad.
+- 💬 Ask me about CSS!
+- 📫 How to reach me: twitter.com/jessicalyschik
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I volunteered at an animal shelter for about five years.
